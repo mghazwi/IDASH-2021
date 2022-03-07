@@ -1,0 +1,18 @@
+=============== Aug 17, 2021 (+03) ===============
+16:42:01.153881 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:42:01.165148 db@open opening
+16:42:01.166280 version@stat F·[] S·0B[] Sc·[]
+16:42:01.175808 db@janitor F·2 G·0
+16:42:01.175855 db@open done T·10.616139ms
+16:42:01.176837 db@close closing
+16:42:01.176976 db@close done T·138.044µs
+=============== Aug 17, 2021 (+03) ===============
+16:42:01.310669 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:42:01.315755 version@stat F·[] S·0B[] Sc·[]
+16:42:01.320818 db@open opening
+16:42:01.321031 journal@recovery F·1
+16:42:01.326978 journal@recovery recovering @1
+16:42:01.330537 memdb@flush created L0@2 N·19 S·1KiB "7\xa3/..3e\xd3,v6":"\xf1\xd9\xde..\xed\x8bU,v8"
+16:42:01.333599 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+16:42:01.374568 db@janitor F·3 G·0
+16:42:01.374616 db@open done T·53.76539ms

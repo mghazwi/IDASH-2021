@@ -1,0 +1,44 @@
+
+Your new key was generated
+
+Public address of the key:   0xD4f7cDf219D9908eCdcAD105C12ECe0EDF4295B7
+Path of the secret key file: accounts/keystore/UTC--2021-08-17T13-41-49.271141000Z--d4f7cdf219d9908ecdcad105c12ece0edf4295b7
+
+- You can share your public address with anyone. Others need it to interact with you.
+- You must NEVER share the secret key with anyone! The key controls access to your funds!
+- You must BACKUP your key file! Without the key, it's impossible to access account funds!
+- You must REMEMBER your password! Without the password, it's impossible to decrypt the key!
+
+
+Your new key was generated
+
+Public address of the key:   0x2ba3cAEE67072F672077fB761c20Fb01F6430256
+Path of the secret key file: accounts/keystore/UTC--2021-08-17T13-41-52.448919000Z--2ba3caee67072f672077fb761c20fb01f6430256
+
+- You can share your public address with anyone. Others need it to interact with you.
+- You must NEVER share the secret key with anyone! The key controls access to your funds!
+- You must BACKUP your key file! Without the key, it's impossible to access account funds!
+- You must REMEMBER your password! Without the password, it's impossible to decrypt the key!
+
+
+Your new key was generated
+
+Public address of the key:   0xB8BAA60A5886aea8c8d579FB4e9D56BD9198705a
+Path of the secret key file: accounts/keystore/UTC--2021-08-17T13-41-55.198548000Z--b8baa60a5886aea8c8d579fb4e9d56bd9198705a
+
+- You can share your public address with anyone. Others need it to interact with you.
+- You must NEVER share the secret key with anyone! The key controls access to your funds!
+- You must BACKUP your key file! Without the key, it's impossible to access account funds!
+- You must REMEMBER your password! Without the password, it's impossible to decrypt the key!
+
+
+Your new key was generated
+
+Public address of the key:   0x98bFC8192654D0743Aa60D702e7F463cd5f4638F
+Path of the secret key file: accounts/keystore/UTC--2021-08-17T13-41-57.418828000Z--98bfc8192654d0743aa60d702e7f463cd5f4638f
+
+- You can share your public address with anyone. Others need it to interact with you.
+- You must NEVER share the secret key with anyone! The key controls access to your funds!
+- You must BACKUP your key file! Without the key, it's impossible to access account funds!
+- You must REMEMBER your password! Without the password, it's impossible to decrypt the key!
+
