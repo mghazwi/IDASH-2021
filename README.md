@@ -13,4 +13,4 @@ Contributors:
 3. Fatih Turkmen, Faculty of Science and Engineering, University of Groningen, The Netherlands
 
 # How to Run
-The single smart contract can be run and tested on [Remix](https://remix.ethereum.org/). 
+The single smart contract can be run and tested on [Remix](https://remix.ethereum.org/). Benchmark tool can be found on `\benchmark`. This is a modified version of the benchmarking tool found in [here](https://github.com/mshuaic/idash2019)
